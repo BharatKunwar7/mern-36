@@ -41,6 +41,11 @@ git command
  ## default branch
  - git config defaultbranch.name --global "master"
  ## staging 
+ git commit -am "comment"
+ pit push origin master:main 
+ //new main branch create hunxa  rw main ma code push hunxa
+
+ ## Note : unless 
 
 
 
